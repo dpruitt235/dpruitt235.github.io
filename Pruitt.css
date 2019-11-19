@@ -11,7 +11,11 @@ body, html {
     margin: 0;
     font: 400 15px/1.8 "Lato", sans-serif;
     color: #777;
-  }
+}
+
+li {
+    font: 400 15px/1.8 "Lato", sans-serif;
+}
 
 .backgroundMain {
     /*Image Used*/
@@ -33,7 +37,7 @@ body, html {
     background-image: url("NISC_Logo.jpg");
 
     /*Image Height*/
-    min-height: 120%;
+    min-height: 100%;
 
     position: relative;
     /*Scrolling Effect*/
@@ -48,7 +52,7 @@ body, html {
     background-image: url("steadyrain.png");
 
     /*Image Height*/
-    min-height: 120%;
+    min-height: 100%;
 
     position: relative;
     /*Scrolling Effect*/
